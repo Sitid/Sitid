@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="Fabrizio Riello — Network Analyst · Infrastructure & Security Operations">
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <img src="banner-light.png" alt="Fabrizio Riello — Network Analyst · Infrastructure & Security Operations">
 </picture>
 
 ---
