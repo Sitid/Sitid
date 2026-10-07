@@ -1,8 +1,7 @@
-<h1 align="center">Fabrizio Riello</h1>
-
-<p align="center">
-  Network Analyst · Infrastructure & Security Operations · Buenos Aires, Argentina
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" alt="Fabrizio Riello — Network Analyst · Infrastructure & Security Operations">
+</picture>
 
 ---
 
